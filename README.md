@@ -18,4 +18,4 @@ Remeber to Initialize SPI1 Ports which corresponds to A5 and A7. Rest pins as GP
 
 Add ssd1306_spi.c and fonts.c in src folder.
 and ssd1306_spi.h and fonts.h in Inc folder.
-
+Main.c can be used to for driver code.
